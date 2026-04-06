@@ -364,4 +364,4 @@ Apache 2.0. See [LICENSE](LICENSE).
 
 ---
 
-*VectorSentinel is inspired by [Re-kNN](https://github.com/ToshikatsuOkadaFSS/Re-kNN) by Toshikatsu Okada. We encourage you to check out the original work.*
+*VectorSentinel is inspired by [Re-kNN]*
